@@ -1,8 +1,7 @@
 # Reading Sensors Array
-Readings of sensors array with output of the reading matrix on a PC
-![Device and control application general view](https://github.com/Brabn/ReadingSensorsArray/blob/main/Photo/ReadingSensorsArray.MainView.jpg)
+System Designed to reading an array of analog sensors and display the results matrix in a convenient form (on a PC screen).
 
-System Designed to interrogate an array of analog sensors and display the results matrix in a convenient form (on a PC screen).
+![Device and control application general view](https://github.com/Brabn/ReadingSensorsArray/blob/main/Photo/ReadingSensorsArray.MainView.jpg)
 
 For testing to simulate sensors, disk (“gear”) potentiometers are used, similar to those normally used to adjust volume. The regulators have two extreme positions, to move between which you need to make at least one revolution of the disk. The entire range is divided into sections (adjustable by software). 
 Each sensor is connected to the analog input of the controller. Due to the limitation on the number of analog inputs, several controllers connected in parallel are used. Data transfer between controllers (each supports up to 16 sensorsh) via the I2C protocol. 
