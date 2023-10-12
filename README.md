@@ -1,6 +1,6 @@
 # Reading Sensors Array
 Readings of sensors array with output of the reading matrix on a PC
-![Device and control application general view](https://github.com/Barabaniuk/ReadingSensorsArray/blob/main/ReadingSensorsArray/Photo/ReadingSensorsArray.MainView.jpg)
+![Device and control application general view](https://github.com/Barabaniuk/ReadingSensorsArray/blob/main/Photo/ReadingSensorsArray.MainView.jpg)
 
 System Designed to interrogate an array of analog sensors and display the results matrix in a convenient form (on a PC screen).
 
