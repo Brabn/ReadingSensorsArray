@@ -9,6 +9,7 @@ Each sensor is connected to the analog input of the controller. Due to the limit
 
 If it is necessary to place sensors over a large area, then the controllers can be connected to each other using the RS-485 interface (from several hundreds meters up to 1,2 km 
 The main controller is connected to the PC via USB (emulates a COM port).
+
 To connect to the controller and display data graphically, use a window application, which in real time displays a matrix with current values for all sensors with the ability to record logs and configure display parameters
  
 
