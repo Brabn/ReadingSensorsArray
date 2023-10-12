@@ -1,5 +1,5 @@
 # Reading Sensors Array
-System Designed to reading an array of analog sensors and display the results matrix in a convenient form (on a PC screen).
+System designed to reading an array of analog sensors and display the results matrix in a convenient form (on a PC screen).
 
 ![Device and control application general view](https://github.com/Brabn/ReadingSensorsArray/blob/main/Photo/ReadingSensorsArray.MainView.jpg)
 
