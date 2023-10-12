@@ -36,16 +36,16 @@ To connect to the controller and display data graphically, use a window applicat
 Desktop application for work of engraving machine. Developed on C++ using .Net framework. 
 Can work on any PC with operating system supporting .NET framework (windows 7,10,11)
 
- [Reading Sensors Array control application](https://github.com/Barabaniuk/ReadingSensorsArray/blob/main/ReadingSensorsArray
+ [Reading Sensors Array control application](https://github.com/Brabn/ReadingSensorsArray/blob/main/ReadingSensorsArray
 /ReadingSensorsArray.1.1.exe)
  
- ![Main window of reading Sensors Array control application](https://github.com/Barabaniuk/ReadingSensorsArray/blob/main/Control_application/ReadingSensorsArray.Control_application_logging.png)
+ ![Main window of reading Sensors Array control application](https://github.com/Brabn/ReadingSensorsArray/blob/main/Control_application/ReadingSensorsArray.Control_application_logging.png)
  
  
 ## Main functions of control application
 * Panel for device connection with choose of available ports
 
- ![Reading Sensors Array control application device connection panel](https://github.com/Barabaniuk/ReadingSensorsArray/blob/main/Control_application/ReadingSensorsArray.Control_application_device_connection.png)
+ ![Reading Sensors Array control application device connection panel](https://github.com/Brabn/ReadingSensorsArray/blob/main/Control_application/ReadingSensorsArray.Control_application_device_connection.png)
  
 * Status of connection with device
 * Main window with live sensors readings in form of matrix (10x8)
@@ -53,7 +53,7 @@ Can work on any PC with operating system supporting .NET framework (windows 7,10
 * Change frequency of sensor reading for logging and overall log duration 
 * Display list of last recorded logs and button to show folder where thus logs were saved (by default, the “log” folder is created in the same place where the control application was launched)
 * Setting display options
- ![Reading Sensors Array control application settings](https://github.com/Barabaniuk/ReadingSensorsArray/blob/main/Control_application/ReadingSensorsArray.Control_application_settings.png)
+ ![Reading Sensors Array control application settings](https://github.com/Brabn/ReadingSensorsArray/blob/main/Control_application/ReadingSensorsArray.Control_application_settings.png)
 
     - Displays only the level or also absolute values on the analog sensor
     - Manually setting the default value (if any of the sensors is not connected, this value will be displayed for it)
@@ -70,11 +70,11 @@ Can work on any PC with operating system supporting .NET framework (windows 7,10
 
 ## Wiring diagram
  
- ![Reading Sensors Array Wiring diagram](https://github.com/Barabaniuk/ReadingSensorsArray/blob/main/Wiring_diagram/ReadingSensorsArray.Wiring_diagram.png)
+ ![Reading Sensors Array Wiring diagram](https://github.com/Brabn/ReadingSensorsArray/blob/main/Wiring_diagram/ReadingSensorsArray.Wiring_diagram.png)
  
 Possible connection using RS-485
 
- ![Reading Sensors Array Wiring diagram for RS-485 connection](https://github.com/Barabaniuk/ReadingSensorsArray/blob/main/Wiring_diagram/ReadingSensorsArray.Wiring_diagram_RS485.png)
+ ![Reading Sensors Array Wiring diagram for RS-485 connection](https://github.com/Brabn/ReadingSensorsArray/blob/main/Wiring_diagram/ReadingSensorsArray.Wiring_diagram_RS485.png)
  
  
 ## Further development of the system
@@ -89,13 +89,13 @@ Possible connection using RS-485
  - [ ] Web interface 
 
 ## Photos
- ![Main controllers assembled ](https://github.com/Barabaniuk/ReadingSensorsArray/blob/main/Photo/ReadingSensorsArray.MainControllers.jpg)
+ ![Main controllers assembled ](https://github.com/Brabn/ReadingSensorsArray/blob/main/Photo/ReadingSensorsArray.MainControllers.jpg)
 
-![Main controllers assembled ](https://github.com/Barabaniuk/ReadingSensorsArray/blob/main/Photo/ReadingSensorsArray.MainControllers2.jpg)
+![Main controllers assembled ](https://github.com/Brabn/ReadingSensorsArray/blob/main/Photo/ReadingSensorsArray.MainControllers2.jpg)
 
-![Main controllers assembled ](https://github.com/Barabaniuk/ReadingSensorsArray/blob/main/Photo/ReadingSensorsArray.Assembled.jpg)
+![Main controllers assembled ](https://github.com/Brabn/ReadingSensorsArray/blob/main/Photo/ReadingSensorsArray.Assembled.jpg)
 
-![Main controllers assembled ](https://github.com/Barabaniuk/ReadingSensorsArray/blob/main/Photo/ReadingSensorsArray.Testing_in_assembly.jpg)
+![Main controllers assembled ](https://github.com/Brabn/ReadingSensorsArray/blob/main/Photo/ReadingSensorsArray.Testing_in_assembly.jpg)
 
 https://github.com/Brabn/ReadingSensorsArray/assets/140490234/9c37173d-ba45-4cd9-968d-364d83d57440
 
